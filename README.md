@@ -32,8 +32,15 @@ poetry shell
 
 poetry update
 
-7) para rodar o projeto no navegador (http://127.0.0.1:8000/), entre na pasta "inventory" e depois rode o comando:
+7) entre na pasta inventory
 
-cd inventory 
+cd inventory
+
+8) rode o servidor do django com o seguinte comando:
+
 python manage.py runserver
+
+9) abra um navegador, no seguinte endereço:
+
+http://127.0.0.1:8000/
 
