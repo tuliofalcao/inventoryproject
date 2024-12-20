@@ -36,11 +36,15 @@ poetry update
 
 cd inventory
 
-8) rode o servidor do django com o seguinte comando:
+8) Faça a migração para o banco de dados com estes dois comandos:
+
+python manage.py makemigrations
+python manage.py migrate
+
+9) rode o servidor do django com o seguinte comando:
 
 python manage.py runserver
 
-9) abra um navegador, no seguinte endereço:
+10) abra um navegador, no seguinte endereço:
 
 http://127.0.0.1:8000/
-
