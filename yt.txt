@@ -1,2 +1,6 @@
-https://www.youtube.com/watch?v=1un61IFc3kE&list=PLInvlTu9nmo8ttdXgiD4S7sHiHL2iRVY5&index=9
+https://www.youtube.com/watch?v=1un61IFc3kE"&list=PLInvlTu9nmo8ttdXgiD4S7sHiHL2iRVY5&index=9
+
+SOLUÇÃO DO ERRO DO CRISPY_FORM:
+https://www.reddit.com/r/djangolearning/comments/11a1w7u/cant_use_crispy_forms/?tl=pt-br&rdt=33041
+
 
